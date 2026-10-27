@@ -16,7 +16,7 @@
 - *Skok na začetek vrstice*: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
 - *Premik za eno besedo naprej*: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
 - *Brisanje vrstice*: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
-- *Pretvorba označenega besedila v velike črke*mv racunalniski-praktikum/README.md README-staro.md: ukaz _Transform to Uppercase_ v paleti ukazov
+- *Pretvorba označenega besedila v velike črke*: ukaz _Transform to Uppercase_ v paleti ukazov
 
 <!-- 2. nivojski razdelek -->
 ## Koda ##
